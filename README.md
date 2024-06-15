@@ -4,7 +4,8 @@
 <a></a>
 
 <h4 align="left">My stack</h4>
-<p align="left"> 
+<p align="left">
+![HTML5](https://img.shields.io/badge/
 <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://media.stockinthechannel.com/pic/PICWrN4n40-z7C_YZUgc6Q.o.jpg" alt="a" width="50" height="40"/> 
 </a> 
@@ -121,7 +122,18 @@
     <tr>
         <td>Projects</td>
         <td>Star</td>
-        <td
+    </tr>
+    <tr>
+        <td>TP</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Djo</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Gilgamesh</td>
+        <td>0</td>
     </tr>
 </table>
 <h3 align="left">My SNS</h3>
