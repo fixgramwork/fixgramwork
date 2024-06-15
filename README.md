@@ -1,21 +1,9 @@
-<h1 align="center">Hi 👋, I'm Fixgram</h1>
-<h3 align="center">I'm a student at Busan Software Meister High School and dream of becoming an information security expert.</h3>
+<h2 align="left">Hi 👋, I'm Fixgram</h1>
+<h3 align="left">I'm a student at Busan Software Meister High School and dream of becoming an information security expert.</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<a align="left" href="">my velog</h3><br/>
-<a align="left" href="">my notion</h3><br />
-<a align="left" href="">my naver cafe</h3><br />
-<!-- BLOG-POST-LIST:END -->
+<a></a>
 
-<h3 align="left">My SNS</h3>
-<p align="left">
-<a href="https://instagram.com/kim.minje32" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kim.minje32" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="left">Languages</h3>
+<h4 align="left">My stack</h4>
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://media.stockinthechannel.com/pic/PICWrN4n40-z7C_YZUgc6Q.o.jpg" alt="a" width="50" height="40"/> 
@@ -126,6 +114,21 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
 <br />
+</p>
+
+<h3 align="left">Open source</h3>
+<table>
+    <tr>
+        <td>Projects</td>
+        <td>Star</td>
+        <td
+    </tr>
+</table>
+<h3 align="left">My SNS</h3>
+<p align="left">
+<a href="https://instagram.com/kim.minje32" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kim.minje32" height="30" width="40" />
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fixgramwork&show_icons=true&locale=en&layout=compact" alt="fixgramwork" /></p>
