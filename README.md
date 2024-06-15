@@ -118,24 +118,6 @@
 </p>
 
 <h3 align="left">Open source</h3>
-<table>
-    <tr>
-        <td>Projects</td>
-        <td>Star</td>
-    </tr>
-    <tr>
-        <td>TP</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>Djo</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>Gilgamesh</td>
-        <td>0</td>
-    </tr>
-</table>
 <h3 align="left">My SNS</h3>
 <p align="left">
 <a href="https://instagram.com/kim.minje32" target="blank">
