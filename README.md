@@ -5,7 +5,6 @@
 
 <h4 align="left">My stack</h4>
 <p align="left">
-![HTML5](https://img.shields.io/badge/
 <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://media.stockinthechannel.com/pic/PICWrN4n40-z7C_YZUgc6Q.o.jpg" alt="a" width="50" height="40"/> 
 </a> 
