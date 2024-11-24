@@ -88,7 +88,6 @@
 </a> 
 <br />
 
-<h3 align="left">Open source</h3>
 <h3 align="left">My SNS</h3>
 <p align="left">
 <a href="https://instagram.com/kim.minje32" target="blank">
