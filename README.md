@@ -1,3 +1,4 @@
+![snake gif](https://github.com/fixgramwork/fixgramwork/blob/output/github-contribution-grid-snake.svg)
 <h2 align="left">Hi 👋, I'm Fixgram</h1>
 <h3 align="left">I'm a student at Busan Software Meister High School and dream of becoming an information security expert.</h3>
 
