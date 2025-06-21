@@ -1,7 +1,7 @@
 <!-- README.md -->
 
-<!-- 헤더 애니메이션 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Fixgram!&fontSize=40&fontAlignY=35&desc=Busan%20Software%20Meister%20High%20School%20Student%20&descAlignY=60&descAlign=62"/>
+<!-- 헤더 애니메이션 + 한 줄 소개 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Fixgram!&fontSize=40&fontAlignY=35&desc=정보보안과%20리버싱%20전문가를%20꿈꾸는%20열정적인%20개발자입니다.&descAlignY=60&descAlign=62"/>
 
 <!-- 자기소개 -->
 <h3 align="center">🚀 I'm a student at Busan Software Meister High School<br>🌱 Dreaming to become a world-class Information Security Expert.</h3>
@@ -13,7 +13,6 @@
 
 ---
 
-<!-- 기술 스택 -->
 ### 🧰 My Stack
 <p align="left">
   <!-- Languages -->
@@ -25,7 +24,9 @@
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
 </p>
 
-#### 🔧 Framework & Tools
+---
+
+### 🔧 Framework & Tools
 <p align="left">
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
@@ -33,20 +34,26 @@
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
 </p>
 
-#### 💾 Database
+---
+
+### 💾 Database
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-#### ☁ Server & Cloud
+---
+
+### ☁ Server & Cloud
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-#### 🤖 AI / ML
+---
+
+### 🤖 AI / ML
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 </p>
@@ -61,19 +68,14 @@
 
 ---
 
-### 🐍 Snake 활동 애니메이션
-<div align="center">
-  <img src="https://github.com/fixgramwork/fixgramwork/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
----
-
 ### 🌐 SNS
 <p align="left">
   <a href="https://instagram.com/kim.minje32" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
+
+---
 
 <!-- 방문자 카운트 -->
 <p align="center">
