@@ -67,16 +67,6 @@
 
 ---
 
-<p align="center" style="margin-bottom:24px;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fixgramwork&theme=tokyo-night&area=true&hide_border=true" style="border-radius:12px; box-shadow: 0 0 30px #00fff7;"/>
-</p>
-
-<p align="center" style="margin-bottom:48px;">
-  <img src="https://ghchart.rshah.org/3498db/fixgramwork" alt="GitHub chart" style="border-radius:12px; box-shadow: 0 0 30px #4B0082;"/>
-</p>
-
----
-
 <p align="center" style="margin-bottom:36px;">
   <img src="https://github-profile-trophy.vercel.app/?username=fixgramwork&theme=onedark&column=6&margin-w=15&margin-h=15" style="filter: drop-shadow(0 0 8px #00fff7);"/>
 </p>
