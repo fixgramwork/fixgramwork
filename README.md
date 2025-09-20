@@ -35,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" style="margin-right:16px; filter: drop-shadow(0 0 3px #4B0082);"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js" style="margin-right:16px; filter: drop-shadow(0 0 3px #4B0082);"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter" style="margin-right:16px; filter: drop-shadow(0 0 3px #4B0082);"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino" style="filter: drop-shadow(0 0 3px #4B0082);"/>
 </p>
 
 ### 🗄️ Databases
